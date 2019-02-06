@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: SWP - Query Array
+ * Plugin Name: SWP Query
  * Description: Custom querying of entries
  * Version: 1.0
  * Author: Jake Almeda
